@@ -1,6 +1,6 @@
 # LocalSite
 
-<h1 align="center">LocalSite<a href="https://daniilshat.ru/" target="_blank">Daniil</a>
+<h1 align="center">LocalSite</h1>
 
 LocalSite - это сайт на PHP и HTML, посвященный статьям о Японии. Он предоставляет возможность свободной сортировки статей по тегам и позволяет пользователям создавать новые статьи.
 <h2>Особенности</h3>
