@@ -1,0 +1,12 @@
+.add-input {
+    display: flex;
+    flex: 1;
+}
+
+.add-lable {
+    display: block;
+}
+
+.add-element {
+    display: flex;
+}
